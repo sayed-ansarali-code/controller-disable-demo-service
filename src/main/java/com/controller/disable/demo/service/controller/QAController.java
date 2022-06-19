@@ -14,7 +14,7 @@ public class QAController {
 
 	@GetMapping(value = "/svc")
 	public String sayHellow() {
-		logger.info("DevController - called");
+		logger.info("QA Controller - called");
 		return "Hello !!";
 	}
 

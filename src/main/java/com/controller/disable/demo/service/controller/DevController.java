@@ -16,7 +16,7 @@ public class DevController {
 
 	@GetMapping(value = "/svc")
 	public String sayHellow() {
-		logger.info("DevController - called");
+		logger.info("Dev Controller - called");
 		return "Hello !!";
 	}
 
