@@ -12,5 +12,5 @@
 ### When application is started with active profile 'dev', 
 * application-dev.properties is picked up. 
 * `dev.controller.enabled=true`.
-* `/dev/svc` endpoint will ontinue to work. 
+* `/dev/svc` endpoint will continue to work. 
 * `qa/svc` endpoint will continue to work.
